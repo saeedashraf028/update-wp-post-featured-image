@@ -7,8 +7,6 @@ You can add this code to your custom plugin file
 or just add in functions.php located in wp-content/themes/your-theme.
 
 
-// some image URL
-// some Post ID
 add_Featured_Image('https://www.gstatic.com/webp/gallery3/1.sm.png', '1');
 
 #Enjoy-Coding
